@@ -55,7 +55,6 @@ $(document).ready(function(){
 
         // dom
         $(slides).each(function(index, section){
-
             section=_.map(section,function(value){
                 return '<section data-markdown><script type="text/template">'+value+'</script></section>';
             });
@@ -64,6 +63,7 @@ $(document).ready(function(){
         });
 
         $(".slides").append(html);
+
         initReveal();
 
     }).error(function(){
