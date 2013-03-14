@@ -27,13 +27,17 @@ function initReveal(){
 
 
 $(document).ready(function(){
+    var query = {};
+    location.search.replace( /[A-Z0-9]+?=(\w*)/gi, function(a) {
+        query[ a.split( '=' ).shift() ] = a.split( '=' ).pop();
+    });
 
-    var no = location.href.replace(/.+no=([0-9]+)$/,'$1');
-    if(isNaN(no)){
-        no = "1";
+    if(!query.doc){
+        query.doc = 'basic';
     }
 
-    $.ajax("md/"+no+".md").done(function(md){
+
+    $.ajax("md/"+ query.doc +".md").done(function(md){
 
         //md parse
         var mds = md.split("***")
