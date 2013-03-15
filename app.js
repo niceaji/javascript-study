@@ -37,7 +37,7 @@ $(document).ready(function(){
     }
 
 
-    $.ajax("md/"+ query.doc +".md").done(function(md){
+    $.ajax("doc/"+ query.doc +".md").done(function(md){
 
         //md parse
         var mds = md.split("***")
