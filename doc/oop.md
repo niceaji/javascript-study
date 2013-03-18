@@ -213,14 +213,12 @@
     };
     obj.test.apply(context, [arg]);
 
+
 ## this-html
 
      <div id="link" onclick="alert(this);return false;">링크</div>
 
 * http://jsfiddle.net/vfV2e/
-
-
- 
 
 
 ***
@@ -274,16 +272,10 @@
 
 * http://jsfiddle.net/dB2ZA/1/
 
+## 주의
 
-
-
-
-
-
-
-
-
-
+* 클로저는 클로저를 생성한 함수의 활성화 객체를 그대로 가지고 있게 되어 의도치 않은 메모리 낭비가 발생할 수 있다.
+* 클로저 실행 시, 불필요한 스코프 탐색을 하게 되어 성능이 나빠진다.
 
 
 
