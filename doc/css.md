@@ -90,10 +90,10 @@ The **dynamic** stylesheet language.
 
 ## Tool
 
-* Sencha Animator(http://www.sencha.com/products/animator/)
-* LAYERSTYLES (http://layerstyles.org/)
-* Variable Grid System(http://grids.heroku.com/)
-* CSS Gradient Generator(http://www.colorzilla.com/gradient-editor/)
+* [Sencha Animator](http://www.sencha.com/products/animator/)
+* [LAYERSTYLES ](http://layerstyles.org/)
+* [Variable Grid System](http://grids.heroku.com/)
+* [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
 ***
 
