@@ -15,3 +15,6 @@ prompt()를 이용하여 숫자를 입력받아 그 숫자의 합을 구함
 * [동작예제](http://www.youtube.com/watch?v=_5dvqecYCco)
 
 ***
+
+## OOP 문제
+
