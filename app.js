@@ -1,5 +1,4 @@
 function initReveal(){
-
     // Full list of configuration options available here:
     // https://github.com/hakimel/reveal.js#configuration
     Reveal.initialize({
@@ -36,7 +35,6 @@ $(document).ready(function(){
         query.doc = 'basic';
     }
 
-
     $.ajax("doc/"+ query.doc +".md").done(function(md){
 
         //md parse
@@ -71,7 +69,9 @@ $(document).ready(function(){
         initReveal();
 
     }).error(function(){
+
         alert("없어요^^");
+
     });
 
 

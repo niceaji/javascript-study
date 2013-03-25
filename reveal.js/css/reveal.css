@@ -291,6 +291,8 @@ body {
 }
 .reveal pre code {
 	padding: 5px;
+	font-size: 120%;
+	line-height:1.4;
 }
 
 .reveal code {

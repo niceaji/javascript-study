@@ -123,7 +123,7 @@
         }
         Car.prototype.move.call(this, speed);
     };
-    bus.ride(80);
+    bus.move(80);
 
 * 상위클래스의 메소드를 재정의
 
@@ -218,7 +218,7 @@
 
      <div id="link" onclick="alert(this);return false;">링크</div>
 
-* http://jsfiddle.net/vfV2e/
+* [http://jsfiddle.net/vfV2e/](http://jsfiddle.net/vfV2e/)
 
 
 ***
@@ -256,7 +256,7 @@
         }
     }
 
-* http://jsfiddle.net/dB2ZA/1/
+* [http://jsfiddle.net/dB2ZA/1/](http://jsfiddle.net/dB2ZA/1/)
 
 ## 예제코드2-2
 
@@ -270,7 +270,7 @@
         })();
     }
 
-* http://jsfiddle.net/dB2ZA/1/
+* [http://jsfiddle.net/dB2ZA/1/](http://jsfiddle.net/dB2ZA/1/)
 
 ## 주의
 
