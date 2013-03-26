@@ -1,4 +1,4 @@
-##  문제 모음
+##  기본 문제 모음
 
 * [http://niceaji.github.com/javascript-study/?doc=question1](http://niceaji.github.com/javascript-study/?doc=question1)
 * [전체보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/question1.md)
@@ -72,4 +72,5 @@ prompt()를 이용하여 숫자를 입력받아 그 숫자의 합을 구함
     [철수]영희에게 '반가워. 영희야' 메시지를 보냈습니다.
     002(android) -> 001 : 반가워. 영희야
     [영희]철수에게 '반가워. 영희야' 메시지를 받았습니다.
+
 
