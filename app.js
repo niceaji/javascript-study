@@ -26,11 +26,14 @@ function initReveal(){
 
 
 $(document).ready(function(){
-    var query = {};
-    location.search.replace( /[A-Z0-9]+?=(\w*)/gi, function(a) {
-        query[ a.split( '=' ).shift() ] = a.split( '=' ).pop();
-    });
-
+    var query = function(s){
+        var str=location.search.substr(1);
+        var r={},t=[];
+        var a=str.split('&');
+        for(var i=0;i<a.length;i++){t=a[i].split("=");r[t[0]] = t[1];}
+        return r;
+    }();
+    
     if(!query.doc){
         query.doc = 'basic';
     }
