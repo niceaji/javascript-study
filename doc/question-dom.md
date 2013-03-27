@@ -10,6 +10,7 @@
 ## 문제 1
 
 ![](https://skitch-img.s3.amazonaws.com/20120516-dpbkbi2yk299x78c8jq897dmfq.png)
+
 * [기본 소스](http://jsfiddle.net/8bpkQ/)
 
 *** 
@@ -25,6 +26,7 @@
 ## 문제 3-체스판 DOM 만들기
 
 ![체스판](http://i.imgur.com/JGcemvx.png)
+
 * 위 그림과 같은 체스판을 DOM 메소드를 사용하여 생성
 
 
