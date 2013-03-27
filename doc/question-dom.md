@@ -28,7 +28,7 @@
 ![체스판](http://i.imgur.com/JGcemvx.png)
 
 * 위 그림과 같은 체스판을 DOM 메소드를 사용하여 생성
-
+* [기본 소스](http://jsbin.com/oyihig/1)
 
 
 ## 문제 3-체스판 이벤트 주기 
