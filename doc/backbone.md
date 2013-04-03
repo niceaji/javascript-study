@@ -1,6 +1,14 @@
-## Backbone
+## [Backbone](http://documentcloud.github.com/backbone/)
 
 JavaScript MV Framework
+
+***
+
+## 뭔가 문제가 있지 않았나요?
+
+* 똑같은 AJAX 통신을 매번 처리하는 게 번거러워요.
+* 쭉 이어지는 로직은 이제 잘해요 그런데...
+* 자바스크립트 코드보다 html마크업부분이 더 많아요.
 
 ***
 
