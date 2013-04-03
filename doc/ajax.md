@@ -17,7 +17,7 @@ Asynchronous JavaScript and XML
 ## 장점
 
 * 새로운 기술이 필요하지 않음 (javascript, HTML, CSS)
-* 부분갱싞으로 로딩속도 향상(응답성 개선)
+* 부분갱신으로 로딩속도 향상(응답성 개선)
 * 비동기식 접근으로 사용성 향상
 
 ## 단점
