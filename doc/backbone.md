@@ -41,7 +41,7 @@ JavaScript MV Framework
 
 간단한 게시판을 만들어봅시다.
 
-[예제](http://jsfiddle.net/yakulten/sqemS/)
+[예제](http://jsfiddle.net/yakulten/sqemS/1/)
 
 ***
 
