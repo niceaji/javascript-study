@@ -13,13 +13,6 @@
 
 * [기본 소스](http://jsfiddle.net/8bpkQ/)
 
-*** 
-
-## 문제 2
-
-* openAPI 를 사용하여 Daum 검색 구현 
-* 다음 검색 API
-* [동영상 예제](http://www.youtube.com/watch?v=LQ9xq6yr5gQ&feature=youtu.be)
 
 *** 
 
