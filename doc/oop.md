@@ -25,7 +25,7 @@
 
 * 생성자 함수로 구현  
 * this 키워드 항상 사용 
-* [참고 java 클래스 ](https://github.com/niceaji/javascript-study/blob/gh-pages/ex/JavaClass.java)
+* [참고 java 클래스 ](https://gist.github.com/niceaji/b2a030a1424ae52bb614)
 
 
 ## 메소드 정의 

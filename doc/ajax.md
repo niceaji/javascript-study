@@ -35,6 +35,8 @@ Asynchronous JavaScript and XML
 
 [예제](http://jsfiddle.net/niceaji/ExXNY/2/)
 
+* 비동기? 동기?
+
 ## 코드
 
     var req = new XMLHttpRequest();
@@ -180,6 +182,13 @@ JS동적 삽입
 * 크로스도메인 이슈 피함
 * http 상태에 따른 디테일한 처리 불가능
 
+***
+
+## 크로스도메인 이슈 피하기 
+
+* jsonp
+* 서버 프록시
+* 플래시 사용 (crossdomain.xml)
 
 ***
 
