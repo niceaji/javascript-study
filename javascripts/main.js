@@ -1,3 +1,18 @@
+
+(function(){
+  var query = function(s){
+      var str=location.search.substr(1);
+      var r={},t=[];
+      var a=str.split('&');
+      for(var i=0;i<a.length;i++){t=a[i].split("=");r[t[0]] = t[1];}
+      return r;
+  }();
+  if(query.doc){
+    location.href = 'pt.html?doc='+query.doc;
+  }
+}();
+
+
 var sectionHeight = function() {
   var total    = $(window).height(),
       $section = $('section').css('height','auto');
@@ -31,22 +46,8 @@ $(document).ready(function(){
   
   $('img').load(sectionHeight);
 
-  checkDocument();
 });
 
-
-function checkDocument(){
-  var query = function(s){
-      var str=location.search.substr(1);
-      var r={},t=[];
-      var a=str.split('&');
-      for(var i=0;i<a.length;i++){t=a[i].split("=");r[t[0]] = t[1];}
-      return r;
-  }();
-  if(query.doc){
-    location.href = 'pt.html?doc='+query.doc;
-  }
-}
 
 
 fixScale = function(doc) {
