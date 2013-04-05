@@ -1,7 +1,7 @@
 ## javascript & DOM & Event
 
 * [http://niceaji.github.com/javascript-study/?doc=dom](http://niceaji.github.com/javascript-study/?doc=dom)
-* [전체보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/dom.md)
+* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/dom.md)
 * [Source](https://github.com/niceaji/javascript-study)
 
 ***

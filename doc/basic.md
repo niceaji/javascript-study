@@ -1,7 +1,7 @@
 ## javascript 기본
 
 * [http://niceaji.github.com/javascript-study/?doc=basic](http://niceaji.github.com/javascript-study/?doc=basic)
-* [전체보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/basic.md)
+* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/basic.md)
 * [Source](https://github.com/niceaji/javascript-study)
 
 ***

@@ -1,7 +1,7 @@
 ##  기본 문제 모음
 
 * [http://niceaji.github.com/javascript-study/?doc=question1](http://niceaji.github.com/javascript-study/?doc=question1)
-* [전체보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/question1.md)
+* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/question1.md)
 * [Source](https://github.com/niceaji/javascript-study)
 
 *** 

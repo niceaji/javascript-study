@@ -2,7 +2,7 @@
 
 * Class, this, Closure
 * [http://niceaji.github.com/javascript-study/?doc=oop](http://niceaji.github.com/javascript-study/?doc=oop)
-* [전체보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/oop.md)
+* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/oop.md)
 * [Source](https://github.com/niceaji/javascript-study)
 
 ***

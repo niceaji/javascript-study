@@ -1,7 +1,7 @@
 ## javascript Ajax
 
 * [http://niceaji.github.com/javascript-study/?doc=ajax](http://niceaji.github.com/javascript-study/?doc=ajax)
-* [전체보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/ajax.md)
+* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/ajax.md)
 * [Source](https://github.com/niceaji/javascript-study)
 
 ***
