@@ -1,8 +1,9 @@
 ## javascript 보안
 
-* [http://niceaji.github.com/javascript-study/?doc=security](http://niceaji.github.com/javascript-study/?doc=security)
+* [http://javascript.dorrra.com/?doc=security](http://javascript.dorrra.com/?doc=security)
 * [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/security.md)
 * [Source](https://github.com/niceaji/javascript-study)
+* [전체 목록](http://javascript.dorrra.com)
 
 ***
 

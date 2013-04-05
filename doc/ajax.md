@@ -1,8 +1,9 @@
 ## javascript Ajax
 
-* [http://niceaji.github.com/javascript-study/?doc=ajax](http://niceaji.github.com/javascript-study/?doc=ajax)
+* [http://javascript.dorrra.com/?doc=ajax](http://javascript.dorrra.com/?doc=ajax)
 * [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/ajax.md)
 * [Source](https://github.com/niceaji/javascript-study)
+* [전체 목록](http://javascript.dorrra.com)
 
 ***
 
