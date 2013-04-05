@@ -10,7 +10,7 @@
   if(query.doc){
     location.href = 'pt.html?doc='+query.doc;
   }
-}();
+})();
 
 
 var sectionHeight = function() {
