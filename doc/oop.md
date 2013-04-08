@@ -3,7 +3,6 @@
 * Class, this, Closure
 * [http://javascript.dorrra.com/?doc=oop](http://javascript.dorrra.com/?doc=oop)
 * [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/oop.md)
-* [Source](https://github.com/niceaji/javascript-study)
 * [전체 목록](http://javascript.dorrra.com)
 
 ***

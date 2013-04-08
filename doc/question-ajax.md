@@ -2,7 +2,6 @@
 
 * [http://javascript.dorrra.com/?doc=question-ajax](http://javascript.dorrra.com/?doc=question-ajax)
 * [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/question-ajax.md)
-* [Source](https://github.com/niceaji/javascript-study)
 * [전체 목록](http://javascript.dorrra.com)
 
 *** 

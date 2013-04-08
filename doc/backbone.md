@@ -2,7 +2,6 @@
 
 * [http://javascript.dorrra.com/?doc=backbone](http://javascript.dorrra.com/?doc=backbone)
 * [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/backbone.md)
-* [Source](https://github.com/niceaji/javascript-study)
 * [전체 목록](http://javascript.dorrra.com)
 
 ***
