@@ -193,6 +193,7 @@ JS동적 삽입
 * jsonp
 * 서버 프록시
 * 플래시 사용 (crossdomain.xml)
+* [Cross-Origin Resource Sharing-CORS](http://www.w3.org/TR/cors/) 
 
 ***
 

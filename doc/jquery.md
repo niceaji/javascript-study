@@ -22,6 +22,20 @@
 
 ***
 
+## Daum의 라이브러리
+
+* [jes](http://github.com/niceaji/jes)
+* [jigu](http://s1.daumcdn.net/photo-section/-sports09/jigu/23/jigu.js)
+
+
+***
+
 ## 맛보기
 
 [http://uixkr.github.io/jquery/](http://uixkr.github.io/jquery/)
+
+***
+
+## Cheat Sheet
+
+[Quick API Reference](http://oscarotero.com/jquery/)
