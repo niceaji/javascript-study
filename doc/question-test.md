@@ -1,5 +1,4 @@
 
-
 # 검색 매쉬업 서비스 만들기
 
 ## 예제 이미지 
@@ -38,6 +37,7 @@
 * 검색결과가 더있을때만 더보기 버튼으로 더보기 기능 넣기 
 * 검색어가 없을경우 '검색어를 넣어주세요' [alert](http://twitter.github.io/bootstrap/components.html#alerts)처리 
 * 검색결과에 원본 결과 링크 
+* 데이터가 로딩되는 동안 [로딩이미지](http://www.ajaxload.info/) 보여주기
 
 ### 제출 
 
