@@ -32,10 +32,12 @@
 
 * [Bootstrap](http://twitter.github.io/bootstrap/index.html) 사용
 * [BootStrap Nav](http://twitter.github.io/bootstrap/components.html#navs) 컴포넌트 사용
+    * [BootStrap Tab javascript](http://twitter.github.io/bootstrap/javascript.html#tabs)
 * 하나의 검색어에 탭을 누를때마다 다른 검색 API 이용하여 질의 보내고 결과 표시
 * 검색결과에 이미지가 있을경우에 이미지도 표시 
 * 검색결과가 더있을때만 더보기 버튼으로 더보기 기능 넣기 
 * 검색어가 없을경우 '검색어를 넣어주세요' [alert](http://twitter.github.io/bootstrap/components.html#alerts)처리 
+    * [BootStrap Modal javascript](http://twitter.github.io/bootstrap/javascript.html#modals)
 * 검색결과에 원본 결과 링크 
 * 데이터가 로딩되는 동안 [로딩이미지](http://www.ajaxload.info/) 보여주기
 
