@@ -213,7 +213,7 @@ UX,접근성 저하
 
 ***
 
-## HTTP 
+## HTTP 이해 
 
 [Hypertext Transfer Protocol](http://ko.wikipedia.org/wiki/HTTP)
 
