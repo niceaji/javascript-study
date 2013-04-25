@@ -1,12 +1,95 @@
-## javascript 보안
+## javascript 웹개발
 
-* [http://javascript.dorrra.com/?doc=security](http://javascript.dorrra.com/?doc=security)
-* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/security.md)
+* [http://javascript.dorrra.com/?doc=web](http://javascript.dorrra.com/?doc=web)
+* [문서로 보기](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/web.md)
 * [전체 목록](http://javascript.dorrra.com)
+
 
 ***
 
-## 제한
+## 폼 검증
+
+로그인 폼 검증해보기 [예제](http://jsfiddle.net/niceaji/2JLNW/)
+
+## 동적인 html
+
+요소 보이기& 숨기기 [예제](http://jsfiddle.net/niceaji/gsk6K/)
+
+## 에니메이션
+
+요소 움직이기 [예제1](http://jsfiddle.net/niceaji/ENsUR/) [예제2](http://jsfiddle.net/niceaji/etV7Q/)
+
+## AJAX
+
+동적 데이터 가져오기 [예제](http://jsfiddle.net/niceaji/pHv4J/) [jsonp](http://jsfiddle.net/KEMRa/)
+
+## 북마클릿
+
+[다음사전](http://uixkr.github.io/archives/550/)
+
+## Node.js 
+
+* 백엔드
+* 서비스 운영툴
+* 자동화, 배포 
+
+
+***
+
+## 겸손한 자바스크립트
+
+Unobtrusive javascript  
+
+    // js 에서 이벤트 핸들러 사용 권장 
+    <a href="#" onclick="popup()">팝업창 열기</a> // X
+
+* 접근성 
+* 마크업(문서),코드(동작) 분리
+* js 없이도 동작이 보장되어야 함
+* 시멘틱 웹 
+* [자세히](http://www.clearboth.org/43_the_principles_of_unobtrusive_javascript/)
+
+
+
+## 적절한 낮춤
+
+Graceful degradation
+
+    <script src="graph.js"></script>
+    <noscript>
+    여자 82%, 남자 18% 그래프 입니다
+    </noscript>
+
+* 단계적 기능 축소
+* 기능이 없는 환경에서도 동작하도록 만드는 것
+* 접근성 - 모든 사용자,기기에서 컨텐츠 유지
+
+## 점진적 향상
+
+Progressive enhancement
+
+    <a href="http://daum.net" target="_blank" id="link">팝업창 열기</a>
+    
+    <script>
+    document.getElementById("link").addEventListener("click",function(event){
+        window.open(this.href, "","width=500,height=300");
+        event.preventDefault();
+    });
+    </script>
+
+
+[자세히](http://www.clearboth.org/51_graceful_degradation_versus_progressive_enhancement/)
+
+
+
+***
+
+## 보안 
+
+* 정보자산을 안전하게 보호하고 개인정보 유출,남용 방지 
+
+
+## 제한 
 
 * 악의적인 코드로 사생활 침해등을 막기위해 실행에 제약
 * 특정 기능을 지원하지 않거나 제한 (클립보드,..)
@@ -51,7 +134,6 @@
 * [위키](http://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%ED%8A%B8_%EA%B0%84_%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85)
 * [Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
-***
 
 ## 약점? 장점?
 
@@ -70,7 +152,6 @@
 * [JS Beautifier](http://jsbeautifier.org/)
 * [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh)
 
-***
 
 
 ## 이게 보안? 
@@ -101,8 +182,6 @@ UX,접근성 저하
 
 [국제 웹 보안 표준 기구](http://ko.wikipedia.org/wiki/OWASP)
 
-*** 
-
 ## 크롬 보안 낮추기 
 
 * Disable Same-Origin Policy : --disable-web-securit
@@ -111,19 +190,32 @@ UX,접근성 저하
     open /Applications/Google\ Chrome.app --args --allow-file-access-from-files
 ```
 
+***
+
+## 크롬 개발자도구 
+
+* 개발자 도구 열기 ( cmd+alt+i , f12)
+* console.log()
+
+## 모바일 환경
+
+* Settings > Overrides
+
+## Source Maps
+
+* [Introduction to JavaScript Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+
+## 배우기
+
+* [Chrome DevTools](https://developers.google.com/chrome-developer-tools/?hl=ko-KR)
+* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 
 
+***
 
+## HTTP 
 
-
-
-
-
-
-
-
-
-
+[Hypertext Transfer Protocol](http://ko.wikipedia.org/wiki/HTTP)
 
 
 

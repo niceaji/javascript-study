@@ -34,8 +34,16 @@
 
 [http://uixkr.github.io/jquery/](http://uixkr.github.io/jquery/)
 
+
+
 ***
 
 ## Cheat Sheet
 
 [Quick API Reference](http://oscarotero.com/jquery/)
+
+
+## 배우기
+
+[try jQuery](http://try.jquery.com/)
+[Hello jQuery](https://tutsplus.com/lesson/hello-jquery/)
