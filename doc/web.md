@@ -217,6 +217,16 @@ UX,접근성 저하
 
 [Hypertext Transfer Protocol](http://ko.wikipedia.org/wiki/HTTP)
 
+* [HTTP: The Protocol Every Web Developer Must Know](http://net.tutsplus.com/tutorials/tools-and-tips/http-the-protocol-every-web-developer-must-know-part-1/)
+* [URL](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
+* [RESTful](http://uixkr.github.io/archives/472/)
+
+***
+
+## 웹 서비스의 이해
+
+* User
+* [UX](http://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B2%BD%ED%97%98)
 
 
 
