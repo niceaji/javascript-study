@@ -13,9 +13,10 @@
 
 ***
 
-## jsPerf.com
+## 코드 성능 체크 
 
-* [DOM vs innerHTML](http://jsperf.com/dom-vs-innerhtml/10)
+
+* [jsPerf.com - DOM vs innerHTML](http://jsperf.com/dom-vs-innerhtml/10)
 
 
 *** 
