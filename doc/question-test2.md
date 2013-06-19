@@ -5,6 +5,10 @@
 * [My Note 소스](https://github.com/niceaji/mynote)
 * [My Note 데모](http://niceaji.github.io/mynote/)
 
+## 도움 이미지 
+
+![](http://i.imgur.com/6b9RE2A.jpg)
+
 ##  규칙
 
 ###  재사용성 높은 코드 작성
