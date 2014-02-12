@@ -1,1 +1,1 @@
-[http://javascript.dorrra.com](http://javascript.dorrra.com)
+http://niceaji.github.io/javascript-study/
