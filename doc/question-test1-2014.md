@@ -8,8 +8,20 @@
 ## 구현
 
 * 뉴스, 연예, 스포츠 탭을 갖고 클릭시에 각 [데이터](https://github.com/niceaji/javascript-study/blob/gh-pages/doc/etc/manynews.js) 만 보여야 함
-* 최초 5개만 보여주고 '더보기'버튼 누르면 나머지 갯수만큼 출력
+* 최초 기사(제목) 5개만 보여주고 '더보기'버튼 누르면 나머지 갯수만큼 출력
+* 기사제목에 링크는 http://media.daum.net/v/{{newsId}} 형태로 세팅
 
+````
+    //json 구조 
+    {
+        "newsId":"20140417081105507", //news id
+        "cateId":"politics",          // news category
+        "cpKorName":"연합뉴스",         // cp name
+        "title":"<여객선침몰> \"朴대통령 뜬눈 밤새워\"..靑, 비상근무태세", //기사제목 
+        "commentCnt":"1873" //댓글수
+
+    }
+````
 
 ## 규칙
 
