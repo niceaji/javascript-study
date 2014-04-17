@@ -1,0 +1,36 @@
+#container {
+	width:80%;
+	margin: 10px auto;
+}
+.box{
+
+	float:left;
+	width:100px;
+	height:100px;
+	background-color:#6f5499;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 5px;
+	color:#cdbfe3;
+	text-align: center;
+	position: relative;
+}
+.box .name{
+	/*font-size: 80%;*/
+}
+.box .github{
+	position: absolute;
+	bottom:10px;
+	left:0;
+	text-align: center;
+	width: 100%;
+}
+.box .test1 {
+	margin-top:10px;
+}
+.box a{
+	color:#fff;
+	font-family: verdana;
+	font-size:70%;
+	display: block;
+}

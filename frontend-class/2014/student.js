@@ -1,0 +1,20 @@
+[
+  ["김성보","ririthevent"],
+  ["송현암","HyunArmSong"],
+  ["김용대","Yongdae-Kim"],
+  ["김지환",""],
+  ["강관우","Gwanwoo"],
+  ["김승완","starcandy"],
+  ["양재원","JaewonYang"],
+  ["이영재","Regan3111"],
+  ["권영환","qrooqroo"],
+  ["이연우","yeonoo"],
+  ["김선오","kinsunoh"],
+  ["서민기","Mingi-Seo"],
+  ["양지현","llyyyy"],
+  ["강상훈","Shylph"],
+  ["김도연","kdy707"],
+  ["부지연","delaybu"],
+  ["양현준","guswns2415"],
+  ["이나라","LeeNarae"]
+]
