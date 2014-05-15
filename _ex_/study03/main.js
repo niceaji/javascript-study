@@ -10,4 +10,4 @@ console.log(myPhone.model);
 myPhone.setNumber( '01122020303');
 myPhone.call();
 
-window.close();
+// window.close();

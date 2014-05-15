@@ -1,4 +1,6 @@
-var API_URL = "http://apis.daum.net/search/web?q={query}&apikey=8cba11dfd015b23269346922b75187e216911ba8&output=json&callback={callback}";
+var API_URL = "http://apis.daum.net/search/web?q= \
+{query}&apikey=bd7a594383871e04a0c9f44ac2fa6bf876de268a&\
+output=json&callback={callback}";
 
 
 
