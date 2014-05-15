@@ -2,16 +2,18 @@ var API_URL = "http://apis.daum.net/search/web?\
 q={query}&\
 apikey=bd7a594383871e04a0c9f44ac2fa6bf876de268a&\
 output=json&\
+result=1&\
+pageno={pageno}&\
 callback={callback}";
 
+var pageno = 1;
 
-
-$('#searchForm').on("submit",function(event){
-	
-	console.log('submit');
+function callDaumApi(){
 	
 	var query = $('#query').val();
-	var url = API_URL.replace('{query}',query).replace('{callback}','?');
+	var url = API_URL.replace('{query}',query)
+					.replace('{callback}','?')
+					.replace("{pageno}",pageno);
 	
 	$.ajax(url,{
 		cache : true,
@@ -32,12 +34,23 @@ $('#searchForm').on("submit",function(event){
 
 				console.log(title)
 			}
-			$('#result').html(  "<ul>" + list.join("") + "</ul>");
+			$('#result').append(  "<ul>" + list.join("") + "</ul>");
+			$('#moreButton').show();
 		}
 		
 	});
+
+}
+
+
+$('#moreButton').on('click',function(){
+	pageno++;
+	callDaumApi();
+
+});
+
+$('#searchForm').on("submit",function(event){
 	
-	
-	
+	callDaumApi();
 	return false;
 });
