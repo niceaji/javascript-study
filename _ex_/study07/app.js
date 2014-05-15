@@ -1,6 +1,8 @@
-var API_URL = "http://apis.daum.net/search/web?q= \
-{query}&apikey=bd7a594383871e04a0c9f44ac2fa6bf876de268a&\
-output=json&callback={callback}";
+var API_URL = "http://apis.daum.net/search/web?\
+q={query}&\
+apikey=bd7a594383871e04a0c9f44ac2fa6bf876de268a&\
+output=json&\
+callback={callback}";
 
 
 
@@ -17,13 +19,20 @@ $('#searchForm').on("submit",function(event){
 		complete  :function(jqXHR, status){
 			var data = jqXHR.responseJSON;
 			var items = data.channel.item;
+			var list = [];
 			
 			for(var i=0 ; i< items.length; i++){
 				
-				console.log(items[i].title);
-				
+				// $('#result').html( $('#result').html()  + items[i].title )
+
+				 // str += items[i].title;
+
+				 var title = items[i].title.replace(/&lt;/g , '<').replace(/&gt;/g , '>')
+				 list.push( '<li>' + title + '</li>');
+
+				console.log(title)
 			}
-			
+			$('#result').html(  "<ul>" + list.join("") + "</ul>");
 		}
 		
 	});
