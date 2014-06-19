@@ -26,3 +26,8 @@
 * 상단영역에 '파일로 저장' 버튼을 만들고 버튼을 누르면 로컬에 html파일로 저장되는 기능 추가 
 * [FileSaver.js](https://github.com/eligrey/FileSaver.js) 참고
 
+## 제출
+
+* github에  note-test 레파지토리 만들어 주세요 
+* gh-pages 브랜치 이용해서 웹서비스 배포 
+** ex) http://{아이디}.github.io/note-test/
