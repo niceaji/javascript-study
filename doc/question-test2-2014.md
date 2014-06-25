@@ -2,7 +2,7 @@
 
 
 * 수업 중에 진행했던 [Note](https://github.com/niceaji/note) 기능 추가 구현 
-* [Note 소스](https://github.com/niceaji/mynote) 에서 과제 시작
+* [Note 소스](https://github.com/niceaji/note) 에서 과제 시작
 * src/button.js 에서 코드를 작성하세요
 
 
