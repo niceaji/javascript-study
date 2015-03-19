@@ -13,7 +13,7 @@
 
 ## BOM-Browser Object Model
 
-![bom](https://skitch-img.s3.amazonaws.com/20120507-jcw19ktp1agge2swrh4321gwu3.png)
+![bom](http://i.imgur.com/Tk8RmJl.png)
 
 * 클라이언트 측 계층 구조와 레벨 0 DOM
 * 브라우저마다 차이
@@ -109,7 +109,7 @@ url에 대한 정보
 
 ## W3C DOM
 
-![dom](https://skitch-img.s3.amazonaws.com/20120509-64sqwy3irk5ghcfddbbye7e54.png)
+![dom](http://i.imgur.com/kHfGkqL.png)
 
 노드, 자식(children), 부모(parent), 형제(sibling)
 
@@ -260,7 +260,7 @@ url에 대한 정보
 
 ## 이벤트 전파
 
-<img src="https://skitch-img.s3.amazonaws.com/20120510-pedar72ektepq36anqfbfgr2nr.png" width="80%">
+![](http://i.imgur.com/yFv5hSy.png)
 
 * 캡쳐,버블 
 * [예제](http://jsfiddle.net/niceaji/Ve9zd/)

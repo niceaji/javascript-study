@@ -24,15 +24,14 @@
 
 ## 가장 뜨거운 언어
 
-![](https://img.skitch.com/20120502-1jcxy5hrhs5sdpagsu9gdbga43.png)
 
-<small>[https://github.com/languages](https://github.com/languages)</small>
+<small>[http://githut.info](http://githut.info)</small>
 
 ## 순위
 
-![](https://img.skitch.com/20120502-8hpr2mcs5yxq988e1k6gbcie8c.png)
+![](http://i.imgur.com/yWBi3yR.png)
 
-<small>[http://www.tiobe.com/inde...](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)</small>
+<small>[http://www.tiobe.com](http://www.tiobe.com/)</small>
 
 ***
 
@@ -416,7 +415,7 @@ js코드로 조작할수 있는 형태의 값
         console.log(arr[i]);
     }
 
-[배열 관련 메소드 보기](http://www.w3schools.com/jsref/jsref_obj_array.asp)
+[배열 관련 메소드 보기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 ***
 
